@@ -1,5 +1,5 @@
 # Perception
-Projects in ENPM 673 - Perception fo Autonomous Robots
+Projects in ENPM 673 - Perception for Autonomous Robots
 
 ##Ball Tracking
 
